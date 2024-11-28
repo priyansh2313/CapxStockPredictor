@@ -1,5 +1,6 @@
 # CapxStockPredictor
 
+
 **Clone the Repository**
 -->git clone https://github.com/priyansh2313/CapxStockPredictor.git
 -->cd your_repository
